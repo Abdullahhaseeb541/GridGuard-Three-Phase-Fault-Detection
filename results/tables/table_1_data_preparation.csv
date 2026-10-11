@@ -1,0 +1,13 @@
+dataset,value
+original_rows,12001
+train_rows,7200
+validation_rows,2400
+test_rows,2401
+fault_rows,5496
+no_fault_rows,6505
+feature_columns,6
+label_column,fault
+split_seed,42
+split_ratio_train,60%
+split_ratio_validation,20%
+split_ratio_test,20%
